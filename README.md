@@ -20,7 +20,7 @@ To run this application, all you need is a web browser that supports HTML5, CSS3
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/stopwatch-web-app.git
+   git clone https://github.com/iamsreehariks/PRODIGY_WD_02
    ```
 2. **Navigate to the Project Directory**:
    ```bash
